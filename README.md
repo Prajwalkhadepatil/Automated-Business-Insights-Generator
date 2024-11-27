@@ -104,11 +104,6 @@ To setup the repository locally follow the steps mentioned below:
 1. Now open the URL `http://insights.test:8000/insights` in your browser, you should see the app running
 
 ---
-## Need help?
-
-Join our [telegram group](https://t.me/frappeinsights) for instant help.
-
----
 
 ## License
 
